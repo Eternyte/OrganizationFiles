@@ -8,7 +8,7 @@ The following is an example of this file filled in for a fall semester:
 ![Academic Calendar](https://raw.github.com/Eternyte/OrganizationFiles/master/Images/Academic Calendar Example.PNG)
 
 #### Budget [Digital]
-An Excel worksheet for filling out an year's expenses. This file is not intended to be printed.  
+An Excel worksheet for filling out a year's expenses. This file is not intended to be printed.  
 Purple cells have preset formulas in the cells and should not be edited by the user.  
 This limits the amount of work the user has to perform in order to keep track of their budget.
 
