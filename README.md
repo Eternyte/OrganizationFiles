@@ -10,7 +10,7 @@ The following is an example of this file filled in for a fall semester:
 #### Budget [Digital]
 An Excel worksheet for filling out a year's expenses. This file is not intended to be printed.  
 Purple cells have preset formulas in the cells and should not be edited by the user.  
-This limits the amount of work the user has to perform in order to keep track of their budget.
+This limits the amount of work the user has to perform in order to keep track of their budget.  
 There is a macro addRow which inserts a new row for each of the income, expense, and asset tables,  
 as well as their relevant monthly tables. This macro also updates all the formulas.  
 Otherwise, removing rows is just deleting the rows as is. The formulas will update automatically.
